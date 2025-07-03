@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=80&pause=1000&color=E779F7FF&center=true&vCenter=true&width=1000&height=200&lines=F;VERSION+2025;BY+DEV+SKIDDBMX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=80&pause=1000&color=E779F7FF&center=true&vCenter=true&width=1000&height=200&lines=F;VERSION+2025;BY+DEV+I.T D3F4ULT" alt="Typing SVG" />
 </a>
 
 ---
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/yhy4en.jpg" width="700"/>
+  <img src="https://files.catbox.moe/xxxklb.jpg" width="700"/>
 </p>
 
 ---
