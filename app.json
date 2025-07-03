@@ -1,9 +1,9 @@
 {
-  "name": "SKIDDXDM",
-  "description": "🚀 SKIDDXDM WhatsApp MultiDevice Bot – BY SKIDDXDM 💡✨",
-  "logo": "https://files.catbox.moe/vgb4cw.jpg",
-  "keywords": ["SKIDDXDM", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/fel255/skiddxdm",
+  "name": "D3F4ULT",
+  "description": "🚀 D3F4ULT WhatsApp MultiDevice Bot – BY D3F4ULT 💡✨",
+  "logo": "https://files.catbox.moe/xxxklb.jpg",
+  "keywords": ["D3F4ULT", "whatsapp-bot", "whatsapp-md-bot"],
+  "repository": "https://github.com/D3F4ULT55/I.-T-D3F4ULT-.git",
   "stack": "container",
   "env": { 
   
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "SKIDDXDM"
+      "value": "D3F4ULT"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "255768091936"
+      "value": "255624536088"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
