@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("SKIDDY~")[1];
+    const sessdata = config.SESSION_ID.split("D3F4ULT~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -89,7 +89,7 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 SKIDDXDM using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 D3F4ULTFAMILY using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
@@ -114,11 +114,11 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Connected Successfully SKIDDYBMX ♻️"));
+                    console.log(chalk.green("Connected Successfully D3F4ULTFAMILY ♻️"));
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/yhy4en.jpg" }, 
+                        image: { url: "https://files.catbox.moe/xxxklb.jpg" }, 
                         caption: `╓─────────────────╖
-│WELCOME TO SKIDDBMX
+│WELCOME TO D3F4ULTFAMILY 
 ╙─────────────────╜
 *⚠️ Hello there User! 🤖*
 
@@ -129,10 +129,10 @@ async function start() {
 *🪀 Your Prefix:* = *${prefix}*
 ═══════════════════
 
-💬 REPO : https://github.com/fel255/skiddxdm
+💬 REPO : https://github.com/D3F4ULT55/I.-T-D3F4ULT-.git
 
 ╚══════════════════╝
-       © DEV SKIDDYBMX`
+       © DEV D3F4ULT`
                     });
                     initialConnection = false;
                 } else {
@@ -180,7 +180,7 @@ async function start() {
                     await Matrix.readMessages([mek.key]);
                     
                     if (config.AUTO_STATUS_REPLY) {
-                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By SKIDDYBMX';
+                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By D3F4ULT';
                         await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
                     }
                 }
