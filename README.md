@@ -76,7 +76,7 @@ DEPLOY SIMPLY FELICIAN BOT
 <table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
   <tr>
     <td align="center" style="border:none">
-      <a href="https://dashboard.heroku.com/new?template=https://github.com/fel255/skiddxdm/tree/main/">
+      <a href="https://dashboard.heroku.com/new?template=https://github.com/D3F4ULT55/I.-T-D3F4ULT-.git/d3f4ult/tree/main/">
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="180">
       </a>
     </td>
