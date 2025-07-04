@@ -1,6 +1,6 @@
-name: RAHEEM-XMD-2
+name: D3F4ULT-XMD-2
 services:
-  - name: RAHEEM-XMD-2
+  - name: D3F4ULT-XMD-2
     type: web
     ports:
       - 5000
