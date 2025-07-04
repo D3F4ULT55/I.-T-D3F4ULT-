@@ -1,16 +1,16 @@
 {
-  "name": "SKIDDXDM",
+  "name": "D3F4ULT",
   "version": "10.8.1",
-  "description": "SKIDDXDM",
+  "description": "D3F4ULT",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name  Raheem-cm",
-    "stop": "pm2 stop  SKIDDXDM",
-    "restart": "pm2 restart  SKIDDXDM"
+    "start": "pm2 start index.js --deep-monitoring --attach --name  D3F4ULT-cm",
+    "stop": "pm2 stop  D3F4ULT",
+    "restart": "pm2 restart  D3F4ULT"
   },
-  "keywords": ["SKIDDXDM", "whatsapp-bot", "whatsapp md bot"],
-  "author": " SKIDDXDM",
+  "keywords": ["D3F4ULT", "whatsapp-bot", "whatsapp md bot"],
+  "author": " D3F4ULT",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
