@@ -95,7 +95,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["SKIDDYBMX", "safari", "3.3"],
+            browser: ["D3F4ULT", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
